@@ -1,0 +1,1 @@
+Assess all docs in for readability, clarity, coherence, consistency, and pedagogy. Written explanations shouldn’t be any longer than they need to be. I want maximal signal, minimal noise. Your writing should reflect deep understanding of the subject matter, clear structured, logical thinking, and dispassionate prose that reads like natural human writing. Never use claudeisms.
